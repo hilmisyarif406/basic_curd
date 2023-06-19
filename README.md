@@ -1,4 +1,3 @@
-# basic_curd
-Program CURD sederhana
+# Program CURD sederhana
 
-Input dan menghitung nilai akhir mahasiswa
+Program untuk melakukan input dan menghitung nilai akhir mahasiswa menggunakan Java
